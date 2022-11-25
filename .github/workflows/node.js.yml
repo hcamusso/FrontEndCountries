@@ -29,3 +29,8 @@ jobs:
     - run: npm install
     - run: npm run build --if-present
     - run: npm test
+
+    - uses: actions/checkout@v2
+
+    - name: Deploy react app to github pages
+      uses: hcamusso/deploy-react-to-ghpages@v1.0.1
