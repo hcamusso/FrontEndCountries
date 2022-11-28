@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "homepage": "https://hcamusso.github.io/FrontEndCountries/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -9,6 +10,7 @@
     "axios": "^0.27.2",
     "babel": "^6.23.0",
     "enzyme": "^3.11.0",
+    "gh-pages": "^4.0.0",
     "is-react": "^1.5.4",
     "nock": "^13.2.9",
     "node-fetch": "^3.2.10",
@@ -25,6 +27,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
