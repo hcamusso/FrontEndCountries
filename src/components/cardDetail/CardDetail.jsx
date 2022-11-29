@@ -6,7 +6,7 @@ import { Link,useParams,useHistory } from 'react-router-dom'
 import { getDetail,dismountDetail,deleteActivity } from '../../actions/index'
 import style from './cardDetail.module.css'
 
-export default function CardDetail(props) {
+export default function CardDetail() {
     const history = useHistory()
     const dispatch = useDispatch()
     const {id} = useParams();
