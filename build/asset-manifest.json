@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/FrontEndCountries/static/css/main.4636e74c.chunk.css",
+    "main.js": "/FrontEndCountries/static/js/main.1c4fe620.chunk.js",
+    "main.js.map": "/FrontEndCountries/static/js/main.1c4fe620.chunk.js.map",
+    "runtime-main.js": "/FrontEndCountries/static/js/runtime-main.cfc1c1b4.js",
+    "runtime-main.js.map": "/FrontEndCountries/static/js/runtime-main.cfc1c1b4.js.map",
+    "static/js/2.0045772d.chunk.js": "/FrontEndCountries/static/js/2.0045772d.chunk.js",
+    "static/js/2.0045772d.chunk.js.map": "/FrontEndCountries/static/js/2.0045772d.chunk.js.map",
+    "static/js/3.c707d25a.chunk.js": "/FrontEndCountries/static/js/3.c707d25a.chunk.js",
+    "static/js/3.c707d25a.chunk.js.map": "/FrontEndCountries/static/js/3.c707d25a.chunk.js.map",
+    "index.html": "/FrontEndCountries/index.html",
+    "static/css/main.4636e74c.chunk.css.map": "/FrontEndCountries/static/css/main.4636e74c.chunk.css.map",
+    "static/js/2.0045772d.chunk.js.LICENSE.txt": "/FrontEndCountries/static/js/2.0045772d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/FrontEndCountries/static/media/pexelsphoto5775841.c01a43e7.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfc1c1b4.js",
+    "static/js/2.0045772d.chunk.js",
+    "static/css/main.4636e74c.chunk.css",
+    "static/js/main.1c4fe620.chunk.js"
+  ]
+}
